@@ -45,6 +45,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="Matlab" height="25" src="images/matlab.png"></code>
 </p>
 <hr>
 
