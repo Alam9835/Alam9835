@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  <Strong>Hi, I'm SHAHBAZ ALAM, Pre-Final Year Student from India</Strong>
+  <Strong>Hi, I'm SHAHBAZ ALAM, Final Year Student from India</Strong>
   <br>
   <br>
   🔬 I'm currently studying for a Bachelor's degree in Electronics and Communications Engineering from Birla Institute of Technology - Mesra
