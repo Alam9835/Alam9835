@@ -18,7 +18,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Full-Stack Development
+  📚 I’m currently learning Spring Boot
   <br>
 💬 Ask me anything about Web Dev
   <br>
