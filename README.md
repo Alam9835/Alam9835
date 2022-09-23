@@ -18,9 +18,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Spring Boot
+  📚 I’m currently learning  <a href="mailto:">Spring Boot</a>
   <br>
-💬 Ask me anything about Web Dev
+💬 Ask me anything about <a href="mailto:">Web Dev</a>
   <br>
   📫 How to reach me: <a href="mailto: shahbazalam3008@gmail.com">shahbazalam3008@gmail.com</a>
 </p>
