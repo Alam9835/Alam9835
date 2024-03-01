@@ -11,11 +11,9 @@
 </h5>
 <br>
 <p align="center">
-  <Strong>Hi, I'm SHAHBAZ ALAM, Final Year Student from India</Strong>
+  <Strong>Hi, I'm SHAHBAZ ALAM, Software Engineer from India</Strong>
   <br>
-  <br>
-  🔬 I'm currently studying for a Bachelor's degree in Electronics and Communications Engineering from Birla Institute of Technology - Mesra
-  <br>
+ 
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning  <a href="mailto:">Spring Boot</a>
