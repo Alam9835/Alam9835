@@ -11,7 +11,7 @@
 </h5>
 <br>
 <p align="center">
-  <Strong>Hi, I'm SHAHBAZ ALAM, Software Engineer from India Excelling in Problem-Solving and Development</Strong>
+  <Strong>Hi, I'm SHAHBAZ ALAM, Software Engineer from India</Strong>
   <br>
  
   💻 I love writing code and learn anythings about it
