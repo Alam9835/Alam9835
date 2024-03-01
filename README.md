@@ -16,7 +16,7 @@
  
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning  <a href="mailto:">Spring Boot</a>
+  📚 I’m currently learning  <a href="mailto:">Testing Framework</a>
   <br>
 💬 Ask me anything about <a href="mailto:">Web Dev</a>
   <br>
