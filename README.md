@@ -1,75 +1,49 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shahbaz+Alam....;Welcome+To+My+Profile😎;Nice+to+meet+you..!&center=true&size=30">
-  </a>
-</h1>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<h5 align="center">
-      <a href="https://www.linkedin.com/in/shahbaz-alam-494b381a6/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/ShahbazAlam" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
- <code><a href="https://www.instagram.com/shahbazalam51/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  <Strong>Hi, I'm SHAHBAZ ALAM, Software Engineer from India</Strong>
-  <br>
- 
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning  <a href="mailto:">Testing Framework</a>
-  <br>
-💬 Ask me anything about <a href="mailto:">Web Dev</a>
-  <br>
-  📫 How to reach me: <a href="mailto: shahbazalam3008@gmail.com">shahbazalam3008@gmail.com</a>
-</p>
+###
 
-<hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-   <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-   <code><img title="React" height="25" src="images/react-original.svg"></code>
-<code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
- <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Matlab" height="25" src="images/matlab.png"></code>
-</p>
-<hr>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<h2 align="center"></h2>
-<br>
-<p align=center>
- 
-  </p>
+###
 
-  <div align=center>
-    <a href="https://github.com/Alam9835/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alam9835&hide=c%23,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  
-   <div>
-    <a href="https://github.com/Alam9835/github-readme-streak-stats" title="Go to Source">
-      <img " width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Alam9835&theme=react&border=61dafb&hide_border=true" alt="Alam9835" />
-    </a>
-    <a href="https://github.com/Alam9835/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Alam9835&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
- 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<hr>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
