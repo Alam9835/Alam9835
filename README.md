@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Shell scripting**
 
-- 👯 I’m looking to collaborate on **Spring Boot Projects**
+- 👯 I’m looking to collaborate on **Open source Spring Boot Projects**
 
 - 🤝 I’m looking for help with **Docker**
 
