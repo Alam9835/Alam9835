@@ -34,6 +34,3 @@
 <centre> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alam9835&show_icons=true&locale=en&layout=compact" alt="alam9835" /></p> </centre>
 
 
-## 📊 GitHub Activity Overview
-
-<img src="https://raw.githubusercontent.com/Alam9835/Alam9835/main/github_activity_radar_chart.png" alt="GitHub Activity Radar Chart" width="500" />
